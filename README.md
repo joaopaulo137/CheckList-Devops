@@ -67,4 +67,4 @@ Usar apenas quando necessário
 
 ✅ Aprovar a execução do pipeline
 
-✅ Executar deploy
+✅ Executar deploy.
