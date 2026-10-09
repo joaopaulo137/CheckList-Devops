@@ -60,7 +60,11 @@ Usar apenas quando necessário
 
 ### 8. Criar pipeline com environment para deploy com permissão do reviwer
 🎯 Objetivos:
+
 ✅ Rodar o build
+
 ✅ Definir o environment
+
 ✅ Aprovar a execução do pipeline
+
 ✅ Executar deploy
